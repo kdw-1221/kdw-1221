@@ -61,7 +61,7 @@
 </div>
 
 <!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DongWoo-Kim/DongWoo-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
