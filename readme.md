@@ -9,9 +9,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :My name is Kim Dong Woo.<br/>
-  #### :I majored in software convergence at Yeungnam University's computer engineering department.<br/>
-  #### :I'm in the second grade now(SKKU)
+  #### My name is Kim Dong Woo.<br/>
+  #### I majored in software convergence at Yeungnam University's computer engineering department.<br/>
+  #### I'm in the second grade now.
   <br/>
   <br/>
   
